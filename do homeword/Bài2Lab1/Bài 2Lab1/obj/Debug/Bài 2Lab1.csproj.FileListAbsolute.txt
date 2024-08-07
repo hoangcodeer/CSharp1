@@ -1,0 +1,16 @@
+D:\C #1\do homeword\Bài 2Lab1\Bài 2Lab1\bin\Debug\Bài 2Lab1.exe.config
+D:\C #1\do homeword\Bài 2Lab1\Bài 2Lab1\bin\Debug\Bài 2Lab1.exe
+D:\C #1\do homeword\Bài 2Lab1\Bài 2Lab1\bin\Debug\Bài 2Lab1.pdb
+D:\C #1\do homeword\Bài 2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.csproj.AssemblyReference.cache
+D:\C #1\do homeword\Bài 2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.csproj.SuggestedBindingRedirects.cache
+D:\C #1\do homeword\Bài 2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.csproj.CoreCompileInputs.cache
+D:\C #1\do homeword\Bài 2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.exe
+D:\C #1\do homeword\Bài 2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.pdb
+D:\C #1\do homeword\Bài2Lab1\Bài 2Lab1\bin\Debug\Bài 2Lab1.exe.config
+D:\C #1\do homeword\Bài2Lab1\Bài 2Lab1\bin\Debug\Bài 2Lab1.exe
+D:\C #1\do homeword\Bài2Lab1\Bài 2Lab1\bin\Debug\Bài 2Lab1.pdb
+D:\C #1\do homeword\Bài2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.csproj.AssemblyReference.cache
+D:\C #1\do homeword\Bài2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.csproj.SuggestedBindingRedirects.cache
+D:\C #1\do homeword\Bài2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.csproj.CoreCompileInputs.cache
+D:\C #1\do homeword\Bài2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.exe
+D:\C #1\do homeword\Bài2Lab1\Bài 2Lab1\obj\Debug\Bài 2Lab1.pdb

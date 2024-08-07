@@ -1,0 +1,8 @@
+D:\C #1\do homeword\Fpoly\Fpoly\bin\Debug\Fpoly.exe.config
+D:\C #1\do homeword\Fpoly\Fpoly\bin\Debug\Fpoly.exe
+D:\C #1\do homeword\Fpoly\Fpoly\bin\Debug\Fpoly.pdb
+D:\C #1\do homeword\Fpoly\Fpoly\obj\Debug\Fpoly.csproj.AssemblyReference.cache
+D:\C #1\do homeword\Fpoly\Fpoly\obj\Debug\Fpoly.csproj.SuggestedBindingRedirects.cache
+D:\C #1\do homeword\Fpoly\Fpoly\obj\Debug\Fpoly.csproj.CoreCompileInputs.cache
+D:\C #1\do homeword\Fpoly\Fpoly\obj\Debug\Fpoly.exe
+D:\C #1\do homeword\Fpoly\Fpoly\obj\Debug\Fpoly.pdb
